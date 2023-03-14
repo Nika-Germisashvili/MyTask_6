@@ -1,0 +1,78 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  font-size: 25px;
+  margin: 85px 0px 0px 141px;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 23px auto;
+}
+
+th {
+  border: 1px solid rgba(218, 218, 218, 1);
+  background-color: rgba(249, 249, 249, 1);
+  font-size: 15px;
+  height: 57px; 
+}
+
+td {
+  border: 1px solid rgba(218, 218, 218, 1);
+  background-color: rgba(255, 255, 255, 1);
+  font-size: 15px;
+  height: 57px;
+}
+
+.id {
+  width: 72px;
+}
+
+.title {
+  width: 444px;
+  padding-right: 372px;
+}
+
+.created {
+  width: 276px;
+}
+
+.action {
+  width: 368px;
+}
+
+.td1 {
+  padding-left: 32px;
+}
+
+.td2 {
+ padding-left: 23px;
+}
+
+.td3 {
+  padding-left: 97px;
+}
+
+.td4 {
+  padding-left: 75px;
+  margin-right: 8px;
+}
+
+button {
+  width: 115px;
+  height: 36px;
+  border: none;
+  border-radius: 10px;
+}
+
+.button1 {
+  background-color: rgba(255, 212, 58, 1);
+  margin-right: 8px;
+}
+
+.button2 {
+  background-color: rgba(232, 73, 73, 1);
+  color: rgba(255, 255, 255, 1);
+}
